@@ -1,3 +1,4 @@
+DataTypes JavaScript 
 
 Strings 
 console.log(typeof ("Hello"));
