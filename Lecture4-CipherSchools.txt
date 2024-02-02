@@ -2,7 +2,7 @@
 Strings 
 console.log(typeof ("Hello"));
 let word = 'raining'  
-console.log(word.toUpperCase()); //RAINING
+console.log(word.toUpperCase()); 
 
 let let = "hi"  - WRONG 
 
